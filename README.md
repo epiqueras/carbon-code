@@ -12,9 +12,9 @@
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/epiqueras/carbon-code/raw/master/screenshots/1.png 'Screenshot 1')
-![Screenshot 2](https://github.com/epiqueras/carbon-code/raw/master/screenshots/2.png 'Screenshot 2')
-![Screenshot 3](https://github.com/epiqueras/carbon-code/raw/master/screenshots/3.png 'Screenshot 3')
+![Carbon Code Block with customizer open.](https://github.com/epiqueras/carbon-code/raw/master/assets/screenshot-1.png 'Carbon Code Block with customizer open.')
+![Carbon Code Block with background picker open.](https://github.com/epiqueras/carbon-code/raw/master/assets/screenshot-2.png 'Carbon Code Block with background picker open.')
+![Published Carbon Code Block.](https://github.com/epiqueras/carbon-code/raw/master/assets/screenshot-3.png 'Published Carbon Code Block.')
 
 ## Thanks
 
