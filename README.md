@@ -1,6 +1,14 @@
 # Carbon Code
 
-#### The easiest way to create beautiful images of code comes to Gutenberg, the WordPress block editor!
+<img style="margin-right: 20px;" align="left" width="100" height="100" alt="Carbon Code Icon" src="https://github.com/epiqueras/carbon-code/raw/master/assets/icon-256x256.png">
+
+#### The easiest way to create beautiful images of code comes to
+
+#### Gutenberg, the WordPress block editor!
+
+---
+
+![Carbon Code Banner](https://github.com/epiqueras/carbon-code/raw/master/assets/banner-1544x500.png 'Carbon Code Banner')
 
 ## How To
 
